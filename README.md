@@ -20,10 +20,8 @@ Unlike standard browser-automation frameworks (e.g., Selenium/Playwright) which 
 ## 📁 Repository Structure
 
 ```text
-├── Data/
-│   └── Political_Parties_Master_Dashboard.xlsx  # Styled Corporate Output
-├── Scripts/
-│   └── generate_political_dashboard.py         # Openpyxl UI Transformation Engine
+├── Political_Parties_Master_Dashboard.xlsx  # Styled Corporate Output
+├── generate_political_dashboard.py         # Openpyxl UI Transformation Engine
 ├── GROWTH_STRATEGY.md                           # Deep-dive Strategic Playbook (INC)
 ├── SUMMARY.md                                   # Cross-Party Analytical Executive Summary
 └── README.md                                    # Project Documentation
