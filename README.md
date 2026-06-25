@@ -1,4 +1,4 @@
-# 📊 National Political Parties Social Media Audit Index
+# 📊 Social Media Statistical Report of Indian Political Parties
 
 A high-efficiency, multi-platform data extraction pipeline engineered to monitor, aggregate, and analyze real-time digital campaign metrics for national political parties (INC, BJP, and AAP) across **Instagram, Facebook, and YouTube**. 
 
